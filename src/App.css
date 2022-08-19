@@ -46,3 +46,30 @@
   padding: 1 rem;
   width: 20rem;
 }
+.btn{
+  background-color: maroon;
+  color: beige;
+  width: 5rem;
+  font-weight: 600;
+}
+
+.modal
+{
+  box-shadow: 0 1px 5px rgba(0,0,0,1.2);
+  border-radius: 15px;
+  background-color:white;
+  padding: 1 rem;
+  text-align: center;
+  width: 20rem;
+  z-index: 10;
+}
+.btn-confirm{
+  background-color: cadetblue;
+  width: 5rem;
+  color: white;
+}
+.btn-cancel{
+  background-color: cadetblue;
+  width: 5rem;
+  color: white;
+}
